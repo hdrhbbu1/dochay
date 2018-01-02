@@ -1,9 +1,9 @@
 # Site settings
 title: "Món Chay Ngon"
-url-title: "Món Chay Ngon"
+url-title: "Đồ Chay"
 description: "Tuyển tập các Món Chay Ngon của Đoàn Bình."
 paginate: 100
-url: "http://thucdonchay.net"
+url: "http://dohoisua.com"
 permalink: /:year/:month/:title/
 future: false
 defaults:
